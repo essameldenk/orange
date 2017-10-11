@@ -17,3 +17,5 @@ print x1[29:39]
 print x2[29:39]
 
 print x3[29:39]
+
+print x1,'_',x2
